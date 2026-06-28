@@ -1,0 +1,29 @@
+[
+    {
+        "pergunta": "Qual linguagem estiliza páginas web?",
+        "alternativas": [
+            "HTML",
+            "CSS",
+            "Python"
+        ],
+        "correta": "CSS"
+    },
+    {
+        "pergunta": "Qual linguagem adiciona interatividade às páginas web?",
+        "alternativas": [
+            "JavaScript",
+            "Java",
+            "C++"
+        ],
+        "correta": "JavaScript"
+    },
+    {
+        "pergunta": "Qual tag HTML é utilizada para criar links?",
+        "alternativas": [
+            "div",
+            "a",
+            "p"
+        ],
+        "correta": "a"
+    }
+]
